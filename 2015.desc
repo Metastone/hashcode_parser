@@ -5,12 +5,12 @@
     nb_pools : int
     nb_servers : int
 
-    unavailable_slots : nb_unavailable_slots $ [
+    unavailable_slots : nb_unavailable_slots [
         row : int
         slot : int
     ]
 
-    servers : nb_servers $ [
+    servers : nb_servers [
         size : int
         capacity : int
     ]
