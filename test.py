@@ -1,7 +1,18 @@
-from description_parser import *
+import argparse
+
+from parse_description import *
 from parse_hashcode_input import *
 
-description = parse_description("2015.desc")
-hashcode_input = parse_hashcode_input("2015.in", description)
-print(hashcode_input)
+def main():
+    parser = argparse.ArgumentParser(description="Hashcode parser")
+    parser.add_argument("description", help="file containing the description of the hashcode input format")
+    parser.add_argument("input", help="hashcode input file")
+    args = parser.parse_args()
+
+    description = parse_description(args.description)
+    input_parsed = parse_hashcode_input(args.input, description)
+    print(input_parsed)
+
+if __name__ == "__main__":
+    main()
 
