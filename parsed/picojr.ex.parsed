@@ -1,0 +1,73 @@
+nb_units : 2
+nb_towers : 2
+nb_waves : 2
+budget : 12
+towers : (list)
+[
+    {
+        powers : (list)
+        [
+            {
+                power : 2
+            }
+            {
+                power : 1
+            }
+        ]
+    }
+    {
+        powers : (list)
+        [
+            {
+                power : 1
+            }
+            {
+                power : 2
+            }
+        ]
+    }
+]
+costs : (list)
+[
+    {
+        cost : 3
+    }
+    {
+        cost : 4
+    }
+]
+bonuses : (list)
+[
+    {
+        bonus : 2
+    }
+    {
+        bonus : 1
+    }
+]
+waves : (list)
+[
+    {
+        unit_numbers : (list)
+        [
+            {
+                numbers : 1
+            }
+            {
+                numbers : 1
+            }
+        ]
+    }
+    {
+        unit_numbers : (list)
+        [
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+        ]
+    }
+]
+

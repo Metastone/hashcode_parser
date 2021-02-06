@@ -1,1 +1,0 @@
-{'nb_units': '2', 'nb_towers': '2', 'nb_waves': '2', 'budget': '12', 'towers': [{'powers': [{'power': '2'}, {'power': '1'}]}, {'powers': [{'power': '1'}, {'power': '2'}]}], 'costs': [{'cost': '3'}, {'cost': '4'}], 'bonuses': [{'bonus': '2'}, {'bonus': '1'}], 'waves': [{'unit_numbers': [{'numbers': '1'}, {'numbers': '1'}]}, {'unit_numbers': [{'numbers': '3'}, {'numbers': '3'}]}]}

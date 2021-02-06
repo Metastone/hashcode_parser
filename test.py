@@ -2,6 +2,7 @@ import argparse
 
 from parse_description import *
 from parse_hashcode_input import *
+from pretty_printer import *
 
 def main():
     parser = argparse.ArgumentParser(description="Hashcode parser")
@@ -11,7 +12,7 @@ def main():
 
     description = parse_description(args.description)
     input_parsed = parse_hashcode_input(args.input, description)
-    print(input_parsed)
+    pretty_print_input_parsed(input_parsed)
 
 if __name__ == "__main__":
     main()
