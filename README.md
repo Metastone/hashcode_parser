@@ -1,6 +1,6 @@
 # Assumptions
 
-- When there is a list in the input file, its size is always given before the list and at the same "level" 
+- When there is a list in the input file, its size is always given before the list 
 
 # Subjects
 
