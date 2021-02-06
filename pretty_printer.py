@@ -9,7 +9,7 @@ def format_list(l, level):
 def format_item(item, level):
     indentation = '    ' * level
     if type(item[1]) is list:
-        return f"(list)\n{indentation}[\n{format_list(item[1], level+1)}{indentation}]"
+        return f"(list size {len(item[1])})\n{indentation}[\n{format_list(item[1], level+1)}{indentation}]"
     return str(item[1])
 
 def format_dict(d, level):
