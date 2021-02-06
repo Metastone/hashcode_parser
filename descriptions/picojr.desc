@@ -1,0 +1,27 @@
+{
+	nb_units : int
+	nb_towers : int
+	nb_waves : int
+	budget : int
+	
+	towers : nb_towers [
+		powers : nb_units [
+			power : int	
+		]
+	]
+
+	costs : nb_towers [
+		cost : int
+	]
+
+	bonuses : nb_waves [
+		bonus : int
+	]
+
+	waves : nb_waves [
+		unit_numbers : nb_units [
+			numbers : int
+		]
+	]
+}
+
