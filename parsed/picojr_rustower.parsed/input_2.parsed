@@ -1,0 +1,5897 @@
+nb_units : 30
+nb_towers : 30
+nb_waves : 30
+budget : 7942
+towers : (list size 30)
+[
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 6
+            }
+            {
+                power : 3
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 7
+            }
+            {
+                power : 4
+            }
+            {
+                power : 1
+            }
+            {
+                power : 1
+            }
+            {
+                power : 3
+            }
+            {
+                power : 1
+            }
+            {
+                power : 6
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 10
+            }
+            {
+                power : 3
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 8
+            }
+            {
+                power : 3
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 7
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 9
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 1
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 9
+            }
+            {
+                power : 6
+            }
+            {
+                power : 4
+            }
+            {
+                power : 10
+            }
+            {
+                power : 6
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 10
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 1
+            }
+            {
+                power : 6
+            }
+            {
+                power : 8
+            }
+            {
+                power : 9
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 9
+            }
+            {
+                power : 6
+            }
+            {
+                power : 2
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 6
+            }
+            {
+                power : 3
+            }
+            {
+                power : 4
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 5
+            }
+            {
+                power : 4
+            }
+            {
+                power : 2
+            }
+            {
+                power : 7
+            }
+            {
+                power : 2
+            }
+            {
+                power : 10
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 2
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 4
+            }
+            {
+                power : 5
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 7
+            }
+            {
+                power : 9
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 8
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 8
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 9
+            }
+            {
+                power : 6
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 3
+            }
+            {
+                power : 4
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 1
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 6
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 7
+            }
+            {
+                power : 4
+            }
+            {
+                power : 1
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 6
+            }
+            {
+                power : 1
+            }
+            {
+                power : 2
+            }
+            {
+                power : 6
+            }
+            {
+                power : 1
+            }
+            {
+                power : 3
+            }
+            {
+                power : 6
+            }
+            {
+                power : 4
+            }
+            {
+                power : 6
+            }
+            {
+                power : 2
+            }
+            {
+                power : 8
+            }
+            {
+                power : 1
+            }
+            {
+                power : 8
+            }
+            {
+                power : 10
+            }
+            {
+                power : 3
+            }
+            {
+                power : 6
+            }
+            {
+                power : 7
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 9
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 5
+            }
+            {
+                power : 1
+            }
+            {
+                power : 1
+            }
+            {
+                power : 2
+            }
+            {
+                power : 5
+            }
+            {
+                power : 3
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 4
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 1
+            }
+            {
+                power : 4
+            }
+            {
+                power : 6
+            }
+            {
+                power : 8
+            }
+            {
+                power : 9
+            }
+            {
+                power : 6
+            }
+            {
+                power : 7
+            }
+            {
+                power : 2
+            }
+            {
+                power : 10
+            }
+            {
+                power : 4
+            }
+            {
+                power : 2
+            }
+            {
+                power : 1
+            }
+            {
+                power : 6
+            }
+            {
+                power : 7
+            }
+            {
+                power : 7
+            }
+            {
+                power : 3
+            }
+            {
+                power : 8
+            }
+            {
+                power : 7
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 5
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 3
+            }
+            {
+                power : 1
+            }
+            {
+                power : 6
+            }
+            {
+                power : 3
+            }
+            {
+                power : 8
+            }
+            {
+                power : 6
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 9
+            }
+            {
+                power : 9
+            }
+            {
+                power : 10
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 10
+            }
+            {
+                power : 1
+            }
+            {
+                power : 5
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 1
+            }
+            {
+                power : 1
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 10
+            }
+            {
+                power : 5
+            }
+            {
+                power : 3
+            }
+            {
+                power : 9
+            }
+            {
+                power : 4
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 9
+            }
+            {
+                power : 5
+            }
+            {
+                power : 10
+            }
+            {
+                power : 1
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 1
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 4
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 5
+            }
+            {
+                power : 5
+            }
+            {
+                power : 9
+            }
+            {
+                power : 2
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 6
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 3
+            }
+            {
+                power : 4
+            }
+            {
+                power : 4
+            }
+            {
+                power : 7
+            }
+            {
+                power : 7
+            }
+            {
+                power : 1
+            }
+            {
+                power : 10
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 8
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 3
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 2
+            }
+            {
+                power : 4
+            }
+            {
+                power : 4
+            }
+            {
+                power : 9
+            }
+            {
+                power : 8
+            }
+            {
+                power : 9
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 2
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 2
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 3
+            }
+            {
+                power : 4
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 1
+            }
+            {
+                power : 7
+            }
+            {
+                power : 1
+            }
+            {
+                power : 6
+            }
+            {
+                power : 2
+            }
+            {
+                power : 3
+            }
+            {
+                power : 1
+            }
+            {
+                power : 8
+            }
+            {
+                power : 1
+            }
+            {
+                power : 6
+            }
+            {
+                power : 9
+            }
+            {
+                power : 3
+            }
+            {
+                power : 10
+            }
+            {
+                power : 9
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 8
+            }
+            {
+                power : 8
+            }
+            {
+                power : 3
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 3
+            }
+            {
+                power : 5
+            }
+            {
+                power : 8
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 5
+            }
+            {
+                power : 9
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 1
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 7
+            }
+            {
+                power : 6
+            }
+            {
+                power : 10
+            }
+            {
+                power : 9
+            }
+            {
+                power : 8
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 7
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 3
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 7
+            }
+            {
+                power : 10
+            }
+            {
+                power : 2
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 5
+            }
+            {
+                power : 10
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 4
+            }
+            {
+                power : 5
+            }
+            {
+                power : 9
+            }
+            {
+                power : 7
+            }
+            {
+                power : 10
+            }
+            {
+                power : 7
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 9
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 8
+            }
+            {
+                power : 4
+            }
+            {
+                power : 4
+            }
+            {
+                power : 0
+            }
+            {
+                power : 2
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 6
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+            {
+                power : 5
+            }
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 1
+            }
+            {
+                power : 0
+            }
+        ]
+    }
+    {
+        powers : (list size 30)
+        [
+            {
+                power : 0
+            }
+            {
+                power : 3
+            }
+            {
+                power : 7
+            }
+            {
+                power : 6
+            }
+            {
+                power : 2
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 0
+            }
+            {
+                power : 4
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+            {
+                power : 8
+            }
+            {
+                power : 6
+            }
+            {
+                power : 4
+            }
+            {
+                power : 2
+            }
+            {
+                power : 6
+            }
+            {
+                power : 8
+            }
+            {
+                power : 0
+            }
+            {
+                power : 10
+            }
+            {
+                power : 3
+            }
+            {
+                power : 10
+            }
+            {
+                power : 10
+            }
+            {
+                power : 2
+            }
+            {
+                power : 4
+            }
+            {
+                power : 3
+            }
+            {
+                power : 0
+            }
+            {
+                power : 7
+            }
+        ]
+    }
+]
+costs : (list size 30)
+[
+    {
+        cost : 4
+    }
+    {
+        cost : 5
+    }
+    {
+        cost : 4
+    }
+    {
+        cost : 8
+    }
+    {
+        cost : 6
+    }
+    {
+        cost : 2
+    }
+    {
+        cost : 3
+    }
+    {
+        cost : 1
+    }
+    {
+        cost : 8
+    }
+    {
+        cost : 5
+    }
+    {
+        cost : 10
+    }
+    {
+        cost : 5
+    }
+    {
+        cost : 9
+    }
+    {
+        cost : 5
+    }
+    {
+        cost : 7
+    }
+    {
+        cost : 5
+    }
+    {
+        cost : 9
+    }
+    {
+        cost : 2
+    }
+    {
+        cost : 9
+    }
+    {
+        cost : 10
+    }
+    {
+        cost : 2
+    }
+    {
+        cost : 2
+    }
+    {
+        cost : 10
+    }
+    {
+        cost : 9
+    }
+    {
+        cost : 2
+    }
+    {
+        cost : 3
+    }
+    {
+        cost : 7
+    }
+    {
+        cost : 5
+    }
+    {
+        cost : 7
+    }
+    {
+        cost : 5
+    }
+]
+bonuses : (list size 30)
+[
+    {
+        bonus : 236
+    }
+    {
+        bonus : 343
+    }
+    {
+        bonus : 202
+    }
+    {
+        bonus : 472
+    }
+    {
+        bonus : 225
+    }
+    {
+        bonus : 414
+    }
+    {
+        bonus : 232
+    }
+    {
+        bonus : 374
+    }
+    {
+        bonus : 293
+    }
+    {
+        bonus : 270
+    }
+    {
+        bonus : 21
+    }
+    {
+        bonus : 525
+    }
+    {
+        bonus : 26
+    }
+    {
+        bonus : 208
+    }
+    {
+        bonus : 114
+    }
+    {
+        bonus : 337
+    }
+    {
+        bonus : 215
+    }
+    {
+        bonus : 249
+    }
+    {
+        bonus : 165
+    }
+    {
+        bonus : 444
+    }
+    {
+        bonus : 48
+    }
+    {
+        bonus : 78
+    }
+    {
+        bonus : 100
+    }
+    {
+        bonus : 330
+    }
+    {
+        bonus : 157
+    }
+    {
+        bonus : 266
+    }
+    {
+        bonus : 37
+    }
+    {
+        bonus : 66
+    }
+    {
+        bonus : 303
+    }
+    {
+        bonus : 204
+    }
+]
+waves : (list size 30)
+[
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 7
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 6
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 10
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 6
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 10
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 3
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 1
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 8
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 6
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 7
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 4
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 3
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 1
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 5
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 7
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 4
+            }
+        ]
+    }
+    {
+        unit_numbers : (list size 30)
+        [
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 8
+            }
+            {
+                numbers : 6
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 9
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 2
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 3
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 1
+            }
+            {
+                numbers : 0
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 4
+            }
+            {
+                numbers : 10
+            }
+            {
+                numbers : 0
+            }
+        ]
+    }
+]
+

@@ -1,0 +1,76 @@
+nb_videos : 5
+nb_endpoints : 2
+nb_requests : 4
+nb_caches : 3
+caches_size : 100
+sizes : (list size 5)
+[
+    {
+        size : 50
+    }
+    {
+        size : 50
+    }
+    {
+        size : 80
+    }
+    {
+        size : 30
+    }
+    {
+        size : 110
+    }
+]
+endpoints : (list size 2)
+[
+    {
+        latency : 1000
+        nb_caches : 3
+        connections : (list size 3)
+        [
+            {
+                cache_id : 0
+                latency : 100
+            }
+            {
+                cache_id : 2
+                latency : 200
+            }
+            {
+                cache_id : 1
+                latency : 300
+            }
+        ]
+    }
+    {
+        latency : 500
+        nb_caches : 0
+        connections : (list size 0)
+        [
+        ]
+    }
+]
+requests : (list size 4)
+[
+    {
+        video_id : 3
+        endpoint_id : 0
+        quantity : 1500
+    }
+    {
+        video_id : 0
+        endpoint_id : 1
+        quantity : 1000
+    }
+    {
+        video_id : 4
+        endpoint_id : 0
+        quantity : 500
+    }
+    {
+        video_id : 1
+        endpoint_id : 0
+        quantity : 1000
+    }
+]
+

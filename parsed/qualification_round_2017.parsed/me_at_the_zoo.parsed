@@ -1,0 +1,1012 @@
+nb_endpoints : 10
+nb_requests : 100
+nb_caches : 10
+caches_size : 100
+sizes : (list size 100)
+[
+    {
+        size : 20
+    }
+    {
+        size : 11
+    }
+    {
+        size : 50
+    }
+    {
+        size : 26
+    }
+    {
+        size : 5
+    }
+    {
+        size : 3
+    }
+    {
+        size : 6
+    }
+    {
+        size : 32
+    }
+    {
+        size : 40
+    }
+    {
+        size : 22
+    }
+    {
+        size : 4
+    }
+    {
+        size : 20
+    }
+    {
+        size : 50
+    }
+    {
+        size : 27
+    }
+    {
+        size : 49
+    }
+    {
+        size : 44
+    }
+    {
+        size : 1
+    }
+    {
+        size : 37
+    }
+    {
+        size : 35
+    }
+    {
+        size : 27
+    }
+    {
+        size : 14
+    }
+    {
+        size : 33
+    }
+    {
+        size : 6
+    }
+    {
+        size : 22
+    }
+    {
+        size : 23
+    }
+    {
+        size : 48
+    }
+    {
+        size : 44
+    }
+    {
+        size : 14
+    }
+    {
+        size : 26
+    }
+    {
+        size : 9
+    }
+    {
+        size : 46
+    }
+    {
+        size : 44
+    }
+    {
+        size : 15
+    }
+    {
+        size : 32
+    }
+    {
+        size : 31
+    }
+    {
+        size : 8
+    }
+    {
+        size : 39
+    }
+    {
+        size : 27
+    }
+    {
+        size : 39
+    }
+    {
+        size : 27
+    }
+    {
+        size : 1
+    }
+    {
+        size : 17
+    }
+    {
+        size : 1
+    }
+    {
+        size : 47
+    }
+    {
+        size : 44
+    }
+    {
+        size : 42
+    }
+    {
+        size : 16
+    }
+    {
+        size : 3
+    }
+    {
+        size : 44
+    }
+    {
+        size : 48
+    }
+    {
+        size : 5
+    }
+    {
+        size : 25
+    }
+    {
+        size : 4
+    }
+    {
+        size : 39
+    }
+    {
+        size : 39
+    }
+    {
+        size : 7
+    }
+    {
+        size : 24
+    }
+    {
+        size : 28
+    }
+    {
+        size : 14
+    }
+    {
+        size : 44
+    }
+    {
+        size : 22
+    }
+    {
+        size : 11
+    }
+    {
+        size : 27
+    }
+    {
+        size : 37
+    }
+    {
+        size : 11
+    }
+    {
+        size : 16
+    }
+    {
+        size : 50
+    }
+    {
+        size : 33
+    }
+    {
+        size : 22
+    }
+    {
+        size : 26
+    }
+    {
+        size : 7
+    }
+    {
+        size : 12
+    }
+    {
+        size : 17
+    }
+    {
+        size : 30
+    }
+    {
+        size : 12
+    }
+    {
+        size : 12
+    }
+    {
+        size : 4
+    }
+    {
+        size : 32
+    }
+    {
+        size : 12
+    }
+    {
+        size : 46
+    }
+    {
+        size : 43
+    }
+    {
+        size : 4
+    }
+    {
+        size : 12
+    }
+    {
+        size : 34
+    }
+    {
+        size : 11
+    }
+    {
+        size : 7
+    }
+    {
+        size : 47
+    }
+    {
+        size : 29
+    }
+    {
+        size : 24
+    }
+    {
+        size : 40
+    }
+    {
+        size : 41
+    }
+    {
+        size : 10
+    }
+    {
+        size : 5
+    }
+    {
+        size : 22
+    }
+    {
+        size : 22
+    }
+    {
+        size : 24
+    }
+    {
+        size : 37
+    }
+    {
+        size : 34
+    }
+    {
+        size : 50
+    }
+    {
+        size : 5
+    }
+]
+endpoints : (list size 10)
+[
+    {
+        latency : 1013
+        nb_caches : 3
+        connections : (list size 3)
+        [
+            {
+                cache_id : 0
+                latency : 170
+            }
+            {
+                cache_id : 1
+                latency : 22
+            }
+            {
+                cache_id : 2
+                latency : 224
+            }
+        ]
+    }
+    {
+        latency : 696
+        nb_caches : 2
+        connections : (list size 2)
+        [
+            {
+                cache_id : 0
+                latency : 7
+            }
+            {
+                cache_id : 1
+                latency : 50
+            }
+        ]
+    }
+    {
+        latency : 1114
+        nb_caches : 3
+        connections : (list size 3)
+        [
+            {
+                cache_id : 1
+                latency : 202
+            }
+            {
+                cache_id : 4
+                latency : 175
+            }
+            {
+                cache_id : 5
+                latency : 2
+            }
+        ]
+    }
+    {
+        latency : 464
+        nb_caches : 2
+        connections : (list size 2)
+        [
+            {
+                cache_id : 1
+                latency : 24
+            }
+            {
+                cache_id : 8
+                latency : 25
+            }
+        ]
+    }
+    {
+        latency : 522
+        nb_caches : 5
+        connections : (list size 5)
+        [
+            {
+                cache_id : 3
+                latency : 216
+            }
+            {
+                cache_id : 5
+                latency : 155
+            }
+            {
+                cache_id : 6
+                latency : 139
+            }
+            {
+                cache_id : 7
+                latency : 208
+            }
+            {
+                cache_id : 8
+                latency : 145
+            }
+        ]
+    }
+    {
+        latency : 321
+        nb_caches : 4
+        connections : (list size 4)
+        [
+            {
+                cache_id : 0
+                latency : 26
+            }
+            {
+                cache_id : 2
+                latency : 70
+            }
+            {
+                cache_id : 8
+                latency : 159
+            }
+            {
+                cache_id : 9
+                latency : 92
+            }
+        ]
+    }
+    {
+        latency : 1288
+        nb_caches : 2
+        connections : (list size 2)
+        [
+            {
+                cache_id : 2
+                latency : 163
+            }
+            {
+                cache_id : 9
+                latency : 153
+            }
+        ]
+    }
+    {
+        latency : 226
+        nb_caches : 1
+        connections : (list size 1)
+        [
+            {
+                cache_id : 7
+                latency : 86
+            }
+        ]
+    }
+    {
+        latency : 316
+        nb_caches : 5
+        connections : (list size 5)
+        [
+            {
+                cache_id : 4
+                latency : 236
+            }
+            {
+                cache_id : 5
+                latency : 79
+            }
+            {
+                cache_id : 6
+                latency : 9
+            }
+            {
+                cache_id : 7
+                latency : 53
+            }
+            {
+                cache_id : 8
+                latency : 67
+            }
+        ]
+    }
+    {
+        latency : 365
+        nb_caches : 5
+        connections : (list size 5)
+        [
+            {
+                cache_id : 2
+                latency : 225
+            }
+            {
+                cache_id : 3
+                latency : 62
+            }
+            {
+                cache_id : 5
+                latency : 141
+            }
+            {
+                cache_id : 6
+                latency : 147
+            }
+            {
+                cache_id : 9
+                latency : 66
+            }
+        ]
+    }
+]
+requests : (list size 100)
+[
+    {
+        video_id : 27
+        endpoint_id : 4
+        quantity : 340
+    }
+    {
+        video_id : 13
+        endpoint_id : 8
+        quantity : 249
+    }
+    {
+        video_id : 1
+        endpoint_id : 1
+        quantity : 449
+    }
+    {
+        video_id : 24
+        endpoint_id : 4
+        quantity : 279
+    }
+    {
+        video_id : 0
+        endpoint_id : 2
+        quantity : 924
+    }
+    {
+        video_id : 8
+        endpoint_id : 4
+        quantity : 862
+    }
+    {
+        video_id : 1
+        endpoint_id : 5
+        quantity : 51
+    }
+    {
+        video_id : 0
+        endpoint_id : 9
+        quantity : 837
+    }
+    {
+        video_id : 30
+        endpoint_id : 9
+        quantity : 927
+    }
+    {
+        video_id : 0
+        endpoint_id : 8
+        quantity : 167
+    }
+    {
+        video_id : 3
+        endpoint_id : 4
+        quantity : 214
+    }
+    {
+        video_id : 0
+        endpoint_id : 4
+        quantity : 59
+    }
+    {
+        video_id : 2
+        endpoint_id : 3
+        quantity : 986
+    }
+    {
+        video_id : 7
+        endpoint_id : 2
+        quantity : 785
+    }
+    {
+        video_id : 0
+        endpoint_id : 4
+        quantity : 424
+    }
+    {
+        video_id : 16
+        endpoint_id : 9
+        quantity : 996
+    }
+    {
+        video_id : 8
+        endpoint_id : 5
+        quantity : 719
+    }
+    {
+        video_id : 89
+        endpoint_id : 1
+        quantity : 297
+    }
+    {
+        video_id : 0
+        endpoint_id : 9
+        quantity : 580
+    }
+    {
+        video_id : 19
+        endpoint_id : 5
+        quantity : 748
+    }
+    {
+        video_id : 31
+        endpoint_id : 0
+        quantity : 585
+    }
+    {
+        video_id : 2
+        endpoint_id : 5
+        quantity : 853
+    }
+    {
+        video_id : 0
+        endpoint_id : 1
+        quantity : 961
+    }
+    {
+        video_id : 8
+        endpoint_id : 0
+        quantity : 186
+    }
+    {
+        video_id : 5
+        endpoint_id : 5
+        quantity : 676
+    }
+    {
+        video_id : 81
+        endpoint_id : 2
+        quantity : 120
+    }
+    {
+        video_id : 3
+        endpoint_id : 8
+        quantity : 247
+    }
+    {
+        video_id : 16
+        endpoint_id : 5
+        quantity : 620
+    }
+    {
+        video_id : 0
+        endpoint_id : 4
+        quantity : 584
+    }
+    {
+        video_id : 8
+        endpoint_id : 5
+        quantity : 935
+    }
+    {
+        video_id : 32
+        endpoint_id : 2
+        quantity : 717
+    }
+    {
+        video_id : 8
+        endpoint_id : 2
+        quantity : 396
+    }
+    {
+        video_id : 8
+        endpoint_id : 6
+        quantity : 300
+    }
+    {
+        video_id : 34
+        endpoint_id : 3
+        quantity : 752
+    }
+    {
+        video_id : 13
+        endpoint_id : 0
+        quantity : 459
+    }
+    {
+        video_id : 4
+        endpoint_id : 9
+        quantity : 997
+    }
+    {
+        video_id : 7
+        endpoint_id : 0
+        quantity : 214
+    }
+    {
+        video_id : 13
+        endpoint_id : 2
+        quantity : 934
+    }
+    {
+        video_id : 21
+        endpoint_id : 8
+        quantity : 880
+    }
+    {
+        video_id : 0
+        endpoint_id : 3
+        quantity : 158
+    }
+    {
+        video_id : 0
+        endpoint_id : 8
+        quantity : 704
+    }
+    {
+        video_id : 1
+        endpoint_id : 6
+        quantity : 988
+    }
+    {
+        video_id : 62
+        endpoint_id : 6
+        quantity : 8
+    }
+    {
+        video_id : 1
+        endpoint_id : 8
+        quantity : 300
+    }
+    {
+        video_id : 16
+        endpoint_id : 6
+        quantity : 939
+    }
+    {
+        video_id : 7
+        endpoint_id : 1
+        quantity : 116
+    }
+    {
+        video_id : 5
+        endpoint_id : 1
+        quantity : 554
+    }
+    {
+        video_id : 17
+        endpoint_id : 2
+        quantity : 605
+    }
+    {
+        video_id : 7
+        endpoint_id : 7
+        quantity : 204
+    }
+    {
+        video_id : 0
+        endpoint_id : 6
+        quantity : 264
+    }
+    {
+        video_id : 2
+        endpoint_id : 4
+        quantity : 906
+    }
+    {
+        video_id : 16
+        endpoint_id : 8
+        quantity : 93
+    }
+    {
+        video_id : 0
+        endpoint_id : 4
+        quantity : 277
+    }
+    {
+        video_id : 99
+        endpoint_id : 0
+        quantity : 772
+    }
+    {
+        video_id : 23
+        endpoint_id : 6
+        quantity : 262
+    }
+    {
+        video_id : 1
+        endpoint_id : 7
+        quantity : 552
+    }
+    {
+        video_id : 26
+        endpoint_id : 4
+        quantity : 10
+    }
+    {
+        video_id : 1
+        endpoint_id : 0
+        quantity : 884
+    }
+    {
+        video_id : 2
+        endpoint_id : 9
+        quantity : 546
+    }
+    {
+        video_id : 0
+        endpoint_id : 8
+        quantity : 583
+    }
+    {
+        video_id : 10
+        endpoint_id : 1
+        quantity : 128
+    }
+    {
+        video_id : 3
+        endpoint_id : 3
+        quantity : 899
+    }
+    {
+        video_id : 2
+        endpoint_id : 7
+        quantity : 861
+    }
+    {
+        video_id : 1
+        endpoint_id : 8
+        quantity : 211
+    }
+    {
+        video_id : 3
+        endpoint_id : 2
+        quantity : 103
+    }
+    {
+        video_id : 74
+        endpoint_id : 7
+        quantity : 885
+    }
+    {
+        video_id : 54
+        endpoint_id : 4
+        quantity : 621
+    }
+    {
+        video_id : 0
+        endpoint_id : 1
+        quantity : 930
+    }
+    {
+        video_id : 0
+        endpoint_id : 8
+        quantity : 977
+    }
+    {
+        video_id : 30
+        endpoint_id : 8
+        quantity : 882
+    }
+    {
+        video_id : 15
+        endpoint_id : 0
+        quantity : 737
+    }
+    {
+        video_id : 0
+        endpoint_id : 3
+        quantity : 931
+    }
+    {
+        video_id : 0
+        endpoint_id : 8
+        quantity : 865
+    }
+    {
+        video_id : 44
+        endpoint_id : 8
+        quantity : 267
+    }
+    {
+        video_id : 65
+        endpoint_id : 7
+        quantity : 109
+    }
+    {
+        video_id : 4
+        endpoint_id : 8
+        quantity : 859
+    }
+    {
+        video_id : 0
+        endpoint_id : 2
+        quantity : 817
+    }
+    {
+        video_id : 0
+        endpoint_id : 4
+        quantity : 306
+    }
+    {
+        video_id : 1
+        endpoint_id : 7
+        quantity : 228
+    }
+    {
+        video_id : 26
+        endpoint_id : 0
+        quantity : 194
+    }
+    {
+        video_id : 0
+        endpoint_id : 3
+        quantity : 865
+    }
+    {
+        video_id : 10
+        endpoint_id : 9
+        quantity : 280
+    }
+    {
+        video_id : 0
+        endpoint_id : 6
+        quantity : 400
+    }
+    {
+        video_id : 5
+        endpoint_id : 9
+        quantity : 537
+    }
+    {
+        video_id : 1
+        endpoint_id : 9
+        quantity : 116
+    }
+    {
+        video_id : 2
+        endpoint_id : 9
+        quantity : 179
+    }
+    {
+        video_id : 4
+        endpoint_id : 9
+        quantity : 266
+    }
+    {
+        video_id : 46
+        endpoint_id : 1
+        quantity : 435
+    }
+    {
+        video_id : 5
+        endpoint_id : 7
+        quantity : 314
+    }
+    {
+        video_id : 4
+        endpoint_id : 6
+        quantity : 512
+    }
+    {
+        video_id : 6
+        endpoint_id : 3
+        quantity : 577
+    }
+    {
+        video_id : 10
+        endpoint_id : 2
+        quantity : 709
+    }
+    {
+        video_id : 65
+        endpoint_id : 0
+        quantity : 926
+    }
+    {
+        video_id : 82
+        endpoint_id : 5
+        quantity : 720
+    }
+    {
+        video_id : 54
+        endpoint_id : 7
+        quantity : 671
+    }
+    {
+        video_id : 16
+        endpoint_id : 3
+        quantity : 70
+    }
+    {
+        video_id : 43
+        endpoint_id : 6
+        quantity : 331
+    }
+    {
+        video_id : 10
+        endpoint_id : 3
+        quantity : 849
+    }
+    {
+        video_id : 11
+        endpoint_id : 7
+        quantity : 301
+    }
+    {
+        video_id : 1
+        endpoint_id : 3
+        quantity : 409
+    }
+]
+

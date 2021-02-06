@@ -1,0 +1,27 @@
+{
+    nb_videos : int
+    nb_endpoints : int
+    nb_requests : int
+    nb_caches : int
+    caches_size : int
+
+    sizes : nb_videos [
+        size : int
+    ]
+
+    endpoints : nb_endpoints [
+        latency : int
+        nb_caches : int
+        connections : nb_caches [
+            cache_id : int
+            latency : int
+        ]
+    ]
+
+    requests : nb_requests [
+        video_id : int
+        endpoint_id : int
+        quantity : int
+    ]
+}
+

@@ -1,0 +1,32 @@
+{           
+    nb_rows : int
+    nb_columns : int
+    nb_drones : int
+    nb_turns : int
+    max_payload : int
+
+    nb_product_types : int
+    weights : nb_product_types [
+        weight : int
+    ]
+
+    nb_warehouses : int
+    warehouses : nb_warehouses [
+        row : int
+        column : int
+        quantities : nb_product_types [
+            quantity : int
+        ]
+    ]
+
+    nb_orders : int
+    orders : nb_orders [
+        row : int
+        column : int
+        nb_ordered : int
+        product_types : nb_ordered [
+            type : int
+        ]
+    ]
+}
+
