@@ -1,3 +1,5 @@
+from collections import deque
+
 def is_simple_item(item):
     return len(item) == 2
 
@@ -15,7 +17,7 @@ def parse_item(name, item, tokens, potential_list_sizes):
         return parse_list(list_size, list_description, tokens, potential_list_sizes)
 
 def parse_simple_item(tokens):
-    return tokens.pop(0)
+    return tokens.popleft()
 
 def parse_list(list_size, list_description, tokens, potential_list_sizes):
     l = []
@@ -30,7 +32,7 @@ def parse_list(list_size, list_description, tokens, potential_list_sizes):
 
 def parse_hashcode_input(hashcode_file_path, description):
     hashcode_input = open(hashcode_file_path, "r")
-    tokens = []
+    tokens = deque()
     for line in hashcode_input.readlines():
         tokens += line.split()
 
