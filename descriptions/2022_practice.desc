@@ -1,0 +1,14 @@
+{
+    nb_clients : int
+    clients : nb_clients [
+        nb_likes : int
+        likes : nb_likes [
+            ingredient : str
+        ]
+        nb_dislikes : int
+        dislikes : nb_dislikes [
+            ingredient : str
+        ]
+    ]
+}
+

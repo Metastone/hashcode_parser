@@ -16,7 +16,7 @@ def parse_description(file_path):
         if is_identifier(tokens[i]):
             name = tokens[i]
             i += 2
-            if tokens[i] == "int":
+            if tokens[i] == "int" or tokens[i] == "str":
                 # Add item to current level
                 current_item_list += [(name, "int")]
             else:

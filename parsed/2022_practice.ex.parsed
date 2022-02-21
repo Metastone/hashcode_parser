@@ -1,0 +1,56 @@
+nb_clients : 3
+clients : (list size 3)
+[
+    {
+        nb_likes : 2
+        likes : (list size 2)
+        [
+            {
+                ingredient : cheese
+            }
+            {
+                ingredient : peppers
+            }
+        ]
+        nb_dislikes : 0
+        dislikes : (list size 0)
+        [
+        ]
+    }
+    {
+        nb_likes : 1
+        likes : (list size 1)
+        [
+            {
+                ingredient : basil
+            }
+        ]
+        nb_dislikes : 1
+        dislikes : (list size 1)
+        [
+            {
+                ingredient : pineapple
+            }
+        ]
+    }
+    {
+        nb_likes : 2
+        likes : (list size 2)
+        [
+            {
+                ingredient : mushrooms
+            }
+            {
+                ingredient : tomatoes
+            }
+        ]
+        nb_dislikes : 1
+        dislikes : (list size 1)
+        [
+            {
+                ingredient : basil
+            }
+        ]
+    }
+]
+
