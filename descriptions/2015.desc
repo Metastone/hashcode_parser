@@ -1,0 +1,18 @@
+(
+    nb_rows : int
+    nb_slots : int
+    nb_unavailable_slots : int
+    nb_pools : int
+    nb_servers : int
+
+    unavailable_slots : nb_unavailable_slots [
+        row : int
+        slot : int
+    ]
+
+    servers : nb_servers [
+        size : int
+        capacity : int
+    ]
+)
+

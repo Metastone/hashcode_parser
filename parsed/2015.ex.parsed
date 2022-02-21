@@ -1,0 +1,36 @@
+nb_rows : 2
+nb_slots : 5
+nb_unavailable_slots : 1
+nb_pools : 2
+nb_servers : 5
+unavailable_slots : (list size 1)
+[
+    {
+        row : 0
+        slot : 0
+    }
+]
+servers : (list size 5)
+[
+    {
+        size : 3
+        capacity : 10
+    }
+    {
+        size : 3
+        capacity : 10
+    }
+    {
+        size : 2
+        capacity : 5
+    }
+    {
+        size : 1
+        capacity : 5
+    }
+    {
+        size : 1
+        capacity : 1
+    }
+]
+

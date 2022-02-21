@@ -1,0 +1,95 @@
+nb_rows : 100
+nb_columns : 100
+nb_drones : 3
+nb_turns : 50
+max_payload : 500
+nb_product_types : 3
+weights : (list size 3)
+[
+    {
+        weight : 100
+    }
+    {
+        weight : 5
+    }
+    {
+        weight : 450
+    }
+]
+nb_warehouses : 2
+warehouses : (list size 2)
+[
+    {
+        row : 0
+        column : 0
+        quantities : (list size 3)
+        [
+            {
+                quantity : 5
+            }
+            {
+                quantity : 1
+            }
+            {
+                quantity : 0
+            }
+        ]
+    }
+    {
+        row : 5
+        column : 5
+        quantities : (list size 3)
+        [
+            {
+                quantity : 0
+            }
+            {
+                quantity : 10
+            }
+            {
+                quantity : 2
+            }
+        ]
+    }
+]
+nb_orders : 3
+orders : (list size 3)
+[
+    {
+        row : 1
+        column : 1
+        nb_ordered : 2
+        product_types : (list size 2)
+        [
+            {
+                type : 2
+            }
+            {
+                type : 0
+            }
+        ]
+    }
+    {
+        row : 3
+        column : 3
+        nb_ordered : 1
+        product_types : (list size 1)
+        [
+            {
+                type : 0
+            }
+        ]
+    }
+    {
+        row : 5
+        column : 6
+        nb_ordered : 1
+        product_types : (list size 1)
+        [
+            {
+                type : 2
+            }
+        ]
+    }
+]
+
