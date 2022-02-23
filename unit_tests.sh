@@ -17,7 +17,7 @@ echo "TEST picojr rustower"
 ./main.py descriptions/picojr_rustower.desc inputs/picojr_rustower.ex.in > temp.parsed
 diff temp.parsed parsed/picojr_rustower.ex.parsed
 
-echo "TEST 2016"
+echo "TEST 2022"
 ./main.py descriptions/2022_practice.desc inputs/2022_practice.ex.in > temp.parsed
 diff temp.parsed parsed/2022_practice.ex.parsed
 
